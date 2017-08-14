@@ -1,5 +1,5 @@
 {
-  "name": "burger",
+  "name": "sequelizedburger",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sajkani/burger.git"
+    "url": "git+https://github.com/sajkani/sequelizedBurger.git"
   },
   "author": "sajkani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sajkani/burger/issues"
+    "url": "https://github.com/sajkani/sequelizedBurger/issues"
   },
-  "homepage": "https://github.com/sajkani/burger#readme",
+  "homepage": "https://github.com/sajkani/sequelizedBurger#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
