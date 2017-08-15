@@ -18,7 +18,7 @@ app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 
 
 app.use(express.static(__dirname + "/public"));
-
+app.use(methodOverride("_method"));
 
 
 var exhb = require("express-handlebars");
