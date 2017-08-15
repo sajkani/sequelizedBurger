@@ -1,3 +1,3 @@
 # Burger the Sequel
 
-Burger App with Sequelize
+Burger App with using Sequelize in lieu of standard ORM
